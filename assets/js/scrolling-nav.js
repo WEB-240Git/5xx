@@ -1,4 +1,4 @@
-(function($) {
+function startScroll(){
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
@@ -16,6 +16,7 @@
   });
 
   // Closes responsive menu when a scroll trigger link is clicked
+
   $('.js-scroll-trigger').click(function() {
     $('.navbar-collapse').collapse('hide');
   });
@@ -26,4 +27,4 @@
     offset: 54
   });
 
-})(jQuery); // End of use strict
+};
