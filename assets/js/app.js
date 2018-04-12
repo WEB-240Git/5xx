@@ -38,6 +38,7 @@ function getContent() {
             console.log('bad');
         }
     });
+    
     setTimeout(function () {
         $("#cover-page").fadeOut(2000);
         startScroll();
