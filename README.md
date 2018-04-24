@@ -9,11 +9,11 @@ inside out project 5xx - STEP-500.0 | Branch 500-0
 
 inside out project 5xx - STEP-501.0 | Branch 501-0
 
-    Update title in head to: Welcome To Me | Brian Savage
+    Update title in head to: Welcome To Me | Giovanny Rosado
     change header bg class from primary to secondary
     Add image to header: http://via.placeholder.com/150x150
     alt should be full name
-    Update h1 in header to: Brian Savage
+    Update h1 in header to: Giovanny Rosado
     Update tagline in header to: ...inspired innovative technology leader & follower.
     Removed the Services section and it's corresponding navigation link
     Updated the h2 for about to: Who I am...
